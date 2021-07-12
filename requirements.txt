@@ -1,3 +1,0 @@
-Cython==0.29.2
-pystan==2.18.1.0
-fbprophet==0.4.post1
